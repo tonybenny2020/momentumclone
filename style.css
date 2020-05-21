@@ -8,3 +8,28 @@ html {
      height:auto;
 
 }
+h1{
+
+	color:white;
+	font-size: 50px;
+}
+input
+{
+	height:20px;
+    width:250px;
+}
+.text-container
+{
+position: absolute;
+top:40%;
+width:100%;
+}
+
+.text-wrapper
+{
+display:flex;
+flex-direction: column;
+align-items: center ;
+width:100%;
+
+}
